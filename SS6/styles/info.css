@@ -32,7 +32,6 @@ body {
   background: var(--dark-darken);
   transition: 0.3s;
   margin: 8px;
-  width: 1880px;
   padding: 20px;
   gap: 24px
 }
